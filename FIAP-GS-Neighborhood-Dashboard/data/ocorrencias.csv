@@ -1,0 +1,15 @@
+id;categoria;descricao;bairro;dia_abertura;status
+001;iluminacao;Poste apagado depois de temporal;Centro;1;concluida
+002;iluminacao;Fios caidos perto da praca apos vendaval;Vila Nova;3;em_analise
+003;iluminacao;Luminaria quebrada em rua alagada;Jardim das Flores;6;aberta
+004;acessibilidade;Rampa da calcada cheia de agua e lama;Centro;2;concluida
+005;acessibilidade;Calcada com buraco aberto pela enxurrada;Vila Nova;4;aberta
+006;limpeza;Galhos e lixo espalhados na calcada pela enxurrada;Jardim das Flores;7;em_analise
+007;limpeza;Bueiro entupido com folhas e lixo;Centro;1;concluida
+008;limpeza;Entulho levado pela chuva para a rua;Vila Nova;5;aberta
+009;limpeza;Lama acumulada na escadaria do bairro;Jardim das Flores;8;aberta
+010;conservacao;Buraco na praca depois da chuva forte;Centro;3;em_analise
+011;conservacao;Arvore caida no parque;Vila Nova;6;concluida
+012;conservacao;Goteira no salao comunitario;Jardim das Flores;9;aberta
+013;;Alagamento na esquina da escola;Centro;10;aberta
+014;limpeza;Esgoto transbordando na rua;Vila Nova;11;resolvido
