@@ -4,7 +4,6 @@ Global Solution 2026.2 – CitizenTech (FIAP)
 
 ## 1. Equipe
 
-- Nome da equipe:
 - Ana Julia Alves Dias – RM: 576930
 
 ## 2. Bairro simulado, problema e público
